@@ -93,13 +93,11 @@
             <linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>
           </li>
           <li>
-            <label>beak</label>
             <capacities>
               <li>Bite</li>
             </capacities>
             <power>3</power>
             <cooldownTime>2</cooldownTime>
-            <linkedBodyPartsGroup>Beak</linkedBodyPartsGroup>
           </li>
           <li>
             <label>head</label>
