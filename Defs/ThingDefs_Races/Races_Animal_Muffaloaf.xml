@@ -128,37 +128,37 @@
             <label>muffachick</label>
             <bodyGraphicData>
               <texPath>Things/Pawn/Animal/DRS_Muffaloaf/Muffaloaf</texPath>
-              <drawSize>0.45</drawSize>
+              <drawSize>0.55</drawSize>
               <color>(179,179,255)</color>
             </bodyGraphicData>
             <dessicatedBodyGraphicData>
               <texPath>Things/Pawn/Animal/Muffalo/Dessicated_Muffalo</texPath>
-              <drawSize>0.45</drawSize>
+              <drawSize>0.55</drawSize>
             </dessicatedBodyGraphicData>
           </li>
           <li>
             <labelMale>muffaloaf cockerel</labelMale>
             <bodyGraphicData>
               <texPath>Things/Pawn/Animal/DRS_Muffaloaf/Muffaloaf</texPath>
-              <drawSize>0.85</drawSize>
+              <drawSize>0.99</drawSize>
             </bodyGraphicData>
             <femaleGraphicData>
               <texPath>Things/Pawn/Animal/DRS_Muffaloaf/Muffaloaf</texPath>
-              <drawSize>0.83</drawSize>
+              <drawSize>0.95</drawSize>
             </femaleGraphicData>
             <dessicatedBodyGraphicData>
               <texPath>Things/Pawn/Animal/Muffalo/Dessicated_Muffalo</texPath>
-              <drawSize>0.85</drawSize>
+              <drawSize>0.99</drawSize>
             </dessicatedBodyGraphicData>
             <femaleDessicatedBodyGraphicData>
               <texPath>Things/Pawn/Animal/Muffalo/Dessicated_Muffalo</texPath>
-              <drawSize>0.83</drawSize>
+              <drawSize>0.95</drawSize>
             </femaleDessicatedBodyGraphicData>
           </li>
           <li>
             <bodyGraphicData>
               <texPath>Things/Pawn/Animal/DRS_Muffaloaf/Muffaloaf</texPath>
-              <drawSize>0.99</drawSize>
+              <drawSize>1</drawSize>
               <shadowData>
                 <volume>(0.3, 0.4, 0.3)</volume>
                 <offset>(0,0,-0.05)</offset>
@@ -166,15 +166,15 @@
             </bodyGraphicData>
             <femaleGraphicData>
               <texPath>Things/Pawn/Animal/DRS_Muffaloaf/Muffaloaf</texPath>
-              <drawSize>0.95</drawSize>
+              <drawSize>1</drawSize>
             </femaleGraphicData>
             <dessicatedBodyGraphicData>
               <texPath>Things/Pawn/Animal/Muffalo/Dessicated_Muffalo</texPath>
-              <drawSize>0.99</drawSize>
+              <drawSize>1</drawSize>
             </dessicatedBodyGraphicData>
             <femaleDessicatedBodyGraphicData>
               <texPath>Things/Pawn/Animal/Muffalo/Dessicated_Muffalo</texPath>
-              <drawSize>0.95</drawSize>
+              <drawSize>1</drawSize>
             </femaleDessicatedBodyGraphicData>
           </li>
         </lifeStages>
