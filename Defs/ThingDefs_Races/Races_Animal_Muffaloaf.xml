@@ -8,7 +8,7 @@
         <statBases>
           <MoveSpeed>2.1</MoveSpeed>
           <MarketValue>50</MarketValue>
-          <LeatherAmount>0</LeatherAmount>
+          <LeatherAmount>1</LeatherAmount>
           <ComfyTemperatureMin>-10</ComfyTemperatureMin>
           <FilthRate>4</FilthRate>
         </statBases>
