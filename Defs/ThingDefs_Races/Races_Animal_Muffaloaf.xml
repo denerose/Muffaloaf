@@ -7,8 +7,8 @@
         <description>Muffaloaves are an adorable abomination of genetic engineering, reproducing through eggs as well as producing both milk and a glittering rainbow wool.</description>
         <statBases>
           <MoveSpeed>2.1</MoveSpeed>
-          <MarketValue>50</MarketValue>
-          <LeatherAmount>1</LeatherAmount>
+          <MarketValue>150</MarketValue>
+          <LeatherAmount>10</LeatherAmount>
           <ComfyTemperatureMin>-10</ComfyTemperatureMin>
           <FilthRate>4</FilthRate>
         </statBases>
@@ -17,7 +17,7 @@
             <eggUnfertilizedDef>DRS_EggMuffaloafUnfertilized</eggUnfertilizedDef>
             <eggFertilizedDef>DRS_EggMuffalofFertilized</eggFertilizedDef>
             <eggFertilizationCountMax>1</eggFertilizationCountMax>
-            <eggLayIntervalDays>1</eggLayIntervalDays>
+            <eggLayIntervalDays>3</eggLayIntervalDays>
             <eggCountRange>1</eggCountRange>
           </li>
           <li Class="CompProperties_Shearable">
@@ -27,8 +27,8 @@
           </li>
           <li Class="CompProperties_Milkable">
             <milkDef>Milk</milkDef>
-            <milkIntervalDays>3</milkIntervalDays>
-            <milkAmount>12</milkAmount>
+            <milkIntervalDays>2</milkIntervalDays>
+            <milkAmount>10</milkAmount>
           </li>
           <li Class="CompProperties_Glower">
             <glowRadius>2</glowRadius>
@@ -84,7 +84,7 @@
         </tradeTags>
         <tools>
           <li>
-            <label>claws</label>
+            <label>clawed hoof</label>
             <capacities>
               <li>Scratch</li>
             </capacities>
