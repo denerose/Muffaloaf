@@ -30,10 +30,6 @@
             <milkIntervalDays>2</milkIntervalDays>
             <milkAmount>10</milkAmount>
           </li>
-          <li Class="CompProperties_Glower">
-            <glowRadius>2</glowRadius>
-            <glowColor>(255,204,238,0)</glowColor>
-          </li>
         </comps>
         <race>
           <body>Bird</body>
